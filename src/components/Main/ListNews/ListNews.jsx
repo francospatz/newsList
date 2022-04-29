@@ -6,6 +6,7 @@ class ListNews extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      //hola
       newsList: [], //this.props.defaultList
     };
     // Event binding (Bindear eventos)
