@@ -1,0 +1,7 @@
+@import '../utils/mixins.scss';
+
+.contact{
+    @include column;
+    margin-left: auto;
+    margin-right: auto;
+}
